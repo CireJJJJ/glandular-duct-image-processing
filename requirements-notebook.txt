@@ -1,0 +1,8 @@
+-r requirements.txt
+imageio
+imgaug
+labelme2coco
+pandas
+PyYAML
+scikit-learn
+tqdm
